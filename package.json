@@ -1,0 +1,31 @@
+{
+  "name": "mi-api",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "dev": "nodemon index.js",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "type": "commonjs",
+  "dependencies": {
+    "cors": "^2.8.6",
+    "dotenv": "^17.4.2",
+    "express": "^5.2.1",
+    "mongoose": "^9.7.1"
+  },
+  "devDependencies": {
+    "nodemon": "^3.1.14"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Mar23camila/mi_api.git"
+  },
+  "bugs": {
+    "url": "https://github.com/Mar23camila/mi_api/issues"
+  },
+  "homepage": "https://github.com/Mar23camila/mi_api#readme"
+}
